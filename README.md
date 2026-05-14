@@ -53,21 +53,7 @@ If you find this project helpful, please click the **⭐ Star** in the top right
 
 **🤝 Contribution Welcome**: If you find an excellent client, notice a project URL change, or see a discontinued project, feel free to open an Issue or submit a Pull Request.
 
----
-## ⚡ Quick Installation Manual
 
-If you don't want to read long evaluations, you can refer to the **Top Recommendations** by platform below:
-
-| Platform / Scenario | Primary Choice | Secondary Choice | Key Features |
-| :--- | :--- | :--- | :--- |
-| **Windows Desktop** | [**Clash Verge Rev**](https://openetkit.com/clash-verge-rev/install) | [FlClashX](https://openetkit.com/flclashx/install) | Modern UI, easy to start, excellent compatibility |
-| **macOS (Apple Mac)** | [**Clash Verge Rev**](https://openetkit.com/clash-verge-rev/install) | [FlClashX](https://openetkit.com/flclashx/install) | Mature desktop-level system proxy integration |
-| **Android Phone** | [**Clash Meta for Android**](https://openetkit.com/clash-meta-for-android) | [FlClashX](https://openetkit.com/flclashx/install) | Mihomo core officially maintained, widely recognized |
-| **iOS / iPad (Apple)** | [**Shadowrocket**](https://apps.apple.com/us/app/shadowrocket/id932747118) | [ClashMi](https://openetkit.com/clashmi/install) | Most classic iOS choice, wide protocol support and stability |
-| **HarmonyOS (Native)**| [**ClashBox**](https://openetkit.com/clashbox/install) (Self-sign req.) | [ZhuoYiTong Solution](https://clash.guide/zyt-clash.html) | Matches HarmonyOS ecosystem, stable basic proxy |
-| **Router / OpenWRT** | [**OpenClash**](https://openetkit.com/openclash/install) | ShellCrash | Best for advanced users for whole-house transparent proxy |
-
----
 
 ## 🥇 Featured Active Projects
 
