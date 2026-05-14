@@ -20,7 +20,7 @@ If you find this project helpful, please click the **⭐ Star** in the top right
 
 👉 [Free Subscription Trial, AI & Streaming Unlocked, Pay-as-you-go available](https://birdwarp.com)
 
-👉 [Client Usage Tutorials](https://openetkit.com/download)
+
 
 ## 📊 Client Status Overview
 
