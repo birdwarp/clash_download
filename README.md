@@ -49,18 +49,7 @@ If you find this project helpful, please click the **⭐ Star** in the top right
 **🤝 Contribution Welcome**: If you find an excellent client, notice a project URL change, or see a discontinued project, feel free to open an Issue or submit a Pull Request.
 
 ---
-## ⚡ Quick Installation Manual
 
-If you don't want to read long evaluations, you can refer to the **Top Recommendations** by platform below:
-
-| Platform / Scenario | Primary Choice | Secondary Choice | Key Features |
-| :--- | :--- | :--- | :--- |
-| **Windows Desktop** | [**Clash Verge Rev**](https://openetkit.com/en/clash-verge-rev/install) | [FlClashX](https://openetkit.com/en/flclashx/install) | Modern UI, easy to start, excellent compatibility |
-| **macOS (Apple Mac)** | [**Clash Verge Rev**](https://openetkit.com/en/clash-verge-rev/install) | [FlClashX](https://openetkit.com/en/flclashx/install) | Mature desktop-level system proxy integration |
-| **Android Phone** | [**Clash Meta for Android**](https://openetkit.com/en/clash-meta-for-android) | [FlClashX](https://openetkit.com/en/flclashx/install) | Mihomo core officially maintained, widely recognized |
-| **iOS / iPad (Apple)** | [**Shadowrocket**](https://apps.apple.com/us/app/shadowrocket/id932747118) | [ClashMi](https://openetkit.com/en/clashmi/install) | Most classic iOS choice, wide protocol support and stability |
-| **HarmonyOS (Native)**| [**ClashBox**](https://openetkit.com/en/clashbox/install) (Self-sign req.) | [ZhuoYiTong Solution](https://clash.guide/en/zyt-clash.html) | Matches HarmonyOS ecosystem, stable basic proxy |
-| **Router / OpenWRT** | [**OpenClash**](https://openetkit.com/en/openclash/install) | ShellCrash | Best for advanced users for whole-house transparent proxy |
 
 ---
 
@@ -75,12 +64,12 @@ The following projects are actively updated, have high GitHub community recognit
 ### 2. [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 * **Target Audience:** Users migrating from CFW who value advanced desktop routing, Tun mode, and ecosystem continuity.
 * **Core Advantages:** One of the most active desktop branches currently; perfectly inherits the Clash Verge ecosystem; provides stable system-level integration (Win/Mac/Linux).
-* **Tutorial:** [Clash Verge Rev Installation & Configuration Guide](https://openetkit.com/en/clash-verge-rev/install)
+* **Tutorial:** [Clash Verge Rev Installation & Configuration Guide]
 
 ### 3. [Clash Meta for Android (CMFA)](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 * **Target Audience:** Android power users and hardcore enthusiasts.
 * **Core Advantages:** Based on the powerful Meta (Mihomo) open-source core; has the best compatibility for new protocols and complex network environments; the "perfect score" solution for Android.
-* **Tutorial:** [CMFA Quick Start Guide](https://clash.guide/en/clash-meta-for-android.html)
+* **Tutorial:** [CMFA Quick Start Guide]
 
 ### 4. [Hiddify Next](https://github.com/hiddify/hiddify-app/releases)
 * **Target Audience:** Beginners looking for zero-config and users wanting to experience multiple protocols (Sing-box).
