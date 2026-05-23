@@ -45,11 +45,6 @@ If you find this project helpful, please click the **⭐ Star** in the top right
 | **[ClashMi](https://apps.apple.com/us/app/clash-mi/id6744321968)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/clash-mi/id6744321968) | Free |
 | **[Surge for iOS](https://apps.apple.com/us/app/surge-5/id1442620678)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) | $4.99 |
 | **[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)**| 🟢 | `iOS` | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | $2.99 |
-| **[Clash Verge](https://github.com/clash-version/clash-verge)**| 🔴 | `Windows` `Mac` `Linux` | Archived (Deprecated) | - |
-| **[Clash for Windows](https://github.com/clash-version/clash-for-windows)**| 🔴 | `Windows` `Mac` | Archived (Deprecated) | - |
-| **[ClashX](https://github.com/clash-version/clashx)**| 🔴 | `Mac` | Archived (Deprecated) | - |
-| **[Clash for Android](https://github.com/clash-version/clash-for-android)**| 🔴 | `Android` | Archived (Deprecated) | - |
-| **[Nekoray](https://github.com/MatsuriDayo/nekoray)**| 🔴 | `Windows` `Linux` | Archived (Deprecated) | - |
 
 **🤝 Contribution Welcome**: If you find an excellent client, notice a project URL change, or see a discontinued project, feel free to open an Issue or submit a Pull Request.
 
